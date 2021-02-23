@@ -10,6 +10,9 @@
     padding: 0;
  
 }
+html{
+    scroll-behavior: smooth;  /*Cuando hago click en el navbar se dirige mas fluido a la seccion*/
+}
 
 /*NAV */
 .topnav { 
